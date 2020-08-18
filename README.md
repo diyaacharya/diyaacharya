@@ -1,4 +1,4 @@
- Hi there I'm Diya 
+ Hi there I'm **Diya**
 
 >>currently a student at VVCE,mysuru🏫
 
