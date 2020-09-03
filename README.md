@@ -6,9 +6,7 @@ Hi there I'm **Diya**
 >>Coding Enthusiast 👩‍💻
 
 >> Aspiring to be a data scientist👩‍💼
+>>sketching and painting stuff
 
->>I can code pretty well with python java and c💻
-
->>graduating as an undergrad in 2023
 
 
