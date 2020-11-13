@@ -5,8 +5,8 @@ Hi there I'm **Diya**
 
 >>Coding Enthusiast 👩‍💻
 
->> Aspiring to be a data scientist👩‍💼
->>sketching and painting stuff
+>>Aspiring to be a data scientist👩‍💼
+
 
 
 
