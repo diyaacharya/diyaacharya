@@ -7,8 +7,5 @@ Hi there I'm **Diya**
 
 >>Aspiring to be a data scientist👩‍💼
 
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyaacharya&show_icons=true&theme=dracula" alt="diyaacharya"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaacharya&layout=compact" alt="diyaacharya" /></br>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=diyaacharya&show_icons=true&theme=dracula" alt="diyaacharya"/></a>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaacharya&layout=compact" alt="diyaacharya" /></a></br>
